@@ -1,0 +1,8 @@
+{
+	"name": "positions-latest",
+	"version": "1.0.0",
+	"description": "最新位置信息云函数",
+	"main": "index.js",
+	"dependencies": {}
+}
+

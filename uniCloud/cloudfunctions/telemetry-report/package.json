@@ -1,0 +1,8 @@
+{
+	"name": "telemetry-report",
+	"version": "1.0.0",
+	"description": "遥测数据上报云函数",
+	"main": "index.js",
+	"dependencies": {}
+}
+
