@@ -60,4 +60,3 @@ export function formatTimeAgo(time: string | Date | null): string {
 	if (diff < 86400) return `${Math.floor(diff / 3600)}小时前`;
 	return `${Math.floor(diff / 86400)}天前`;
 }
-
